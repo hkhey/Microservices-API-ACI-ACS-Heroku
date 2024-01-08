@@ -1,0 +1,10 @@
+numpy
+fastapi
+uvicorn
+pydantic
+pickle5
+scikit-learn==1.0.1
+pandas
+onnx
+onnxruntime
+
